@@ -1,2 +1,2 @@
 # Notepad-Python
-a test project of notepad made in python
+Test project of notepad made in python
